@@ -1,0 +1,225 @@
+/*Media Query*/
+
+/*NoteBook Device*/
+@media (min-width: 768px) and (max-width: 990px){
+	
+.price {
+    width: 100px;
+    height: 100px;
+    
+}
+.price-bor {
+    width: 90px;
+    height: 90px;
+    line-height: 12px;
+}
+
+.price h3 {
+    font-size: 18px;
+   
+    padding-top: 34px;
+}
+.price span {
+    font-size: 47px;
+}
+.price p { 
+    font-size: 13px;
+  
+}
+.banner-contant .textside h1 {
+    font-size: 70px;
+   
+}
+.price {
+   padding: 5px;
+   
+}
+.enjoy h4 {
+    margin: 12px 36%; 
+}
+.top-food .burger-1 img {
+    padding-bottom: 15px;
+}
+
+.enjoy {
+    padding: 27px 0px;
+}
+.enjoy h1 {
+    padding: 20px 0px 0px 0px;
+}
+
+.upcomeing p {
+    padding-right: 0px;
+    font-size: 14px;
+}
+.owl-carousel .owl-item img {
+    padding-top: 38%;
+}
+
+
+
+}
+
+/*Tablet Device*/
+@media (min-width: 575px) and (max-width: 768px){
+
+.enjoy h4 {
+   margin: 12px 30%;
+    
+}
+
+footer .logo{
+	padding: 0px 50px;
+}
+footer .address{
+	padding: 0px 50px;
+}
+
+.best-food img{
+    padding-bottom: 30px;
+}
+.order-section {
+    padding: 0px;
+    
+}
+
+
+
+}
+
+/*Mobile Device*/
+@media (min-width: 320px) and (max-width: 575px){
+	
+.banner-contant .textside {
+    margin-top: 44px;
+}
+ .banner-contant .textside h1{
+ 	font-size: 56px;
+
+} 
+
+.banner h5{
+    font-size:13px;
+
+}   
+ .price {
+    
+    width: 120px;
+    height: 120px;
+   	position: absolute;
+    left: 20px;
+}
+
+.price-bor {
+    width: 100px;
+    height: 100px;
+   
+}
+.price span{
+	font-size: 42px;
+}
+.price h3 {
+	padding-top: 39px;
+    
+}
+
+
+
+.top-food {
+ 	padding-top: 20px;
+ 	padding-right: 10px;
+ 	padding-left: 10px;
+}
+.top-food h1 {
+ 	font-size: 33px;
+   
+}
+.top-food .burger-1 img{
+	padding: 20px 5px;
+} 
+    
+.top-food .fress{
+	padding: 0px 5px;
+}
+.enjoy {
+    padding: 18px 0px;
+}
+
+.enjoy h1 {
+	font-size: 30px;
+
+}
+
+.enjoy p {
+	padding: 2px 56px;
+  text-align: justify;
+}
+
+.enjoy h4 {
+	font-size: 16px;   
+    margin: 11px 20%;   
+}
+
+.menu-section.menu-2{
+	padding: 70px 10px;
+}
+.menu-section img {
+    width: 76%;
+    padding-top: 20px;
+    display: block;
+    margin: 0 auto;
+}
+.menu-section .menu-2 img {
+    width: 71%;
+    padding-top: 31px;
+    display: block;
+    margin: 0 auto;
+}
+.upcomeing {
+    padding: 20px 10px;
+}
+.upcomeing p {
+    text-align: justify;
+    padding: 10px;
+    padding-right: 31px;
+    font-size: 12px;
+}
+.upcomeing h2 {  
+ font-size: 24px;
+ text-align: center;
+}
+.upcomeing .imgslaid{
+	margin: auto;
+}
+
+.upcomeing h3 {
+  text-align: center;
+}
+
+.order-section h1 {
+    font-size: 18px;
+    padding-bottom: 14px;
+}
+
+footer .logo{
+	padding: 0px 20px;
+}
+
+footer .address{
+	padding-left: 30px;
+}
+
+
+.order-section {
+    padding: 0px 0px;
+    padding-top: 30px;
+
+}
+
+
+
+
+
+
+
+}
